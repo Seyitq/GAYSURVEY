@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import * # tkinter kütüphanesini dahil ediyoruz
 from tkinter import messagebox
 import random
 
